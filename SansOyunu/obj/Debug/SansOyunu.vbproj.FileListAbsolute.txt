@@ -1,0 +1,20 @@
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\SansOyunu\SansOyunu\bin\Debug\SansOyunu.exe.config
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\SansOyunu\SansOyunu\bin\Debug\SansOyunu.exe
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\SansOyunu\SansOyunu\bin\Debug\SansOyunu.pdb
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\SansOyunu\SansOyunu\bin\Debug\SansOyunu.xml
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\SansOyunu\SansOyunu\obj\Debug\SansOyunu.Form1.resources
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\SansOyunu\SansOyunu\obj\Debug\SansOyunu.Resources.resources
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\SansOyunu\SansOyunu\obj\Debug\SansOyunu.vbproj.GenerateResource.Cache
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\SansOyunu\SansOyunu\obj\Debug\SansOyunu.exe
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\SansOyunu\SansOyunu\obj\Debug\SansOyunu.xml
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\SansOyunu\SansOyunu\obj\Debug\SansOyunu.pdb
+C:\Users\BIP\Desktop\SansOyunu\SansOyunu\bin\Debug\SansOyunu.exe.config
+C:\Users\BIP\Desktop\SansOyunu\SansOyunu\obj\Debug\SansOyunu.exe
+C:\Users\BIP\Desktop\SansOyunu\SansOyunu\obj\Debug\SansOyunu.xml
+C:\Users\BIP\Desktop\SansOyunu\SansOyunu\obj\Debug\SansOyunu.pdb
+C:\Users\BIP\Desktop\SansOyunu\SansOyunu\bin\Debug\SansOyunu.exe
+C:\Users\BIP\Desktop\SansOyunu\SansOyunu\bin\Debug\SansOyunu.pdb
+C:\Users\BIP\Desktop\SansOyunu\SansOyunu\bin\Debug\SansOyunu.xml
+C:\Users\BIP\Desktop\SansOyunu\SansOyunu\obj\Debug\SansOyunu.Form1.resources
+C:\Users\BIP\Desktop\SansOyunu\SansOyunu\obj\Debug\SansOyunu.Resources.resources
+C:\Users\BIP\Desktop\SansOyunu\SansOyunu\obj\Debug\SansOyunu.vbproj.GenerateResource.Cache
